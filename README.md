@@ -1,1 +1,2 @@
 # Biqu-B1
+fIRMEWARE.BIN IS FOR skr v1.4 - MARLIN 2.0.9.0
